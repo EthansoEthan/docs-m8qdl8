@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-mdhz7s.salamkita.shop/sitemap.xml
